@@ -2,14 +2,15 @@
 export const ProjectList = [
   {
     img: "https://user-images.githubusercontent.com/91539305/147107410-e2cf1961-f777-4e33-8a49-586a9a612cb5.gif",
-    title: "Udemy Clone - Backend",
-    description: "Udemy is E-Commerce website, Provide online study material and courses.",
+    title: "Pepperfry Clone - Backend",
+    description: "Pepperfry is an Indian online marketplace for furniture and home décor.",
     tech_stack: "Html, Css, Javascript Express node.js Mongoose MongoDB Ejs",
-    github_url: "https://github.com/Sachi4496/Udemy-Clone-Backend",
-    demo_url: "https://your_project_demo_link",
+    github_url: "https://github.com/sushantsharmaa/PEPPERFRY-CLONE-BACKEND",
+    demo_url: "https://pepperfry-clone-silk.vercel.app/",
   },
   {
-    img: "https://miro.medium.com/max/700/1*bDJWIfUrMdV2i-fjDQOvQw.jpeg",
+   
+    img: "https://github.com/AvdheshPal/Pull-Bear/raw/main/image.gif/",
     title: "Pull & Bear",
     description: "An online shopping website, based on spain.",
     tech_stack: "HTML, JavaScrip, CSS, LocalStorage",
@@ -18,11 +19,11 @@ export const ProjectList = [
   },
   {
     img: "https://user-images.githubusercontent.com/91539305/147107410-e2cf1961-f777-4e33-8a49-586a9a612cb5.gif",
-    title: "Udemy Clone",
+    title: "Pepperfry Clone",
     description:
-      "Udemy is E-Commerce website, Provide online study material and courses.",
-    tech_stack: "Html, Css, Javascript, Tailwind, Localstorage , Mock-Sever",
-    github_url: "https://github.com/Sachi4496/Udemy-Clone",
+      "Pepperfry is an Indian online marketplace for furniture and home décor.",
+    tech_stack: "Html, Css, Javascript, Localstorage , Mock-Sever",
+    github_url: "https://github.com/sushantsharmaa/PEPPERFRY-CLONE",
     demo_url: "https://your_project_demo_link",
   }
 ];

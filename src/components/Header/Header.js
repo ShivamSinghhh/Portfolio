@@ -1,16 +1,23 @@
 import React from "react";
 import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "./HeaderElements";
-
+import "./header.css"
 const Header = ({ toggle }) => {
   return (
     <div className="Container">
       <Nav>
         <Logo>
-            {/* <img src="https://cdn-icons.flaticon.com/png/512/3541/premium/3541180.png?token=exp=1641413231~hmac=d8344a1444cdcff5096e11e03e7e93a2"/> */}
-          {/* <img src="https://miro.medium.com/max/512/1*Ug8q34qzjIz-zuai3TNijg.png" /> */}
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0BWngzf25c3-x_KJpmMtDX8TgA_xxnE7uMQ&usqp=CAU" alt= "logo" width="300px"/>
-            {/* <img src="https://cdn-icons-png.flaticon.com/512/753/753352.png"/> */}
-            {/* <img src="https://img.icons8.com/nolan/344/github.png"/> */}
+          <div id="logo">
+            <p>
+              <span className="code">&#x0003C;</span>
+              <span className="first">S</span>
+              <span className="last">hivam Singh</span>
+              <span className="code">&#x0002F;&#x0003E;</span>
+            </p>
+          </div>   
+    
+       
+          {/* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0BWngzf25c3-x_KJpmMtDX8TgA_xxnE7uMQ&usqp=CAU" alt= "logo" width="300px"/> */}
+        
         </Logo>
         <NavMenu>
           <NavLink className="menu-item" to="projects" smooth={true}>
@@ -18,6 +25,9 @@ const Header = ({ toggle }) => {
           </NavLink>
           <NavLink className="menu-item" to="about" smooth={true}>
             About
+          </NavLink>
+          <NavLink className="menu-item" to="skills" smooth={true}>
+            Skills
           </NavLink>
           <NavLink className="menu-item" to="contact" smooth={true}>
             Contact

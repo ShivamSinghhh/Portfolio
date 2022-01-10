@@ -52,13 +52,24 @@ function FixSocialIcon() {
             <FaGithub />
           </a>
         </li>
-        <li className="item">
+        
+        {/* <li className="item">
           <a
-            href="#"
+            href="https://github.com/ShivamSinghhh"
             target="_blank"
             rel="noopener noreferrer"
           >
-            {/* <FaInstagram /> */}
+            <FaGithub />
+          </a>
+        </li> */}
+
+        <li className="item">
+          <a
+            href="https://www.instagram.com/cvam_singhh/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaInstagram />
           </a>
         </li>
       </ul>

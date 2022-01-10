@@ -11,7 +11,7 @@ export const Image = styled.img`
 `;
 
 export const Technologies = styled.div`
-  display: flex;
+  display: flex; 
   flex-wrap: wrap;
   justify-content: center;
   margin-right: auto;
@@ -23,8 +23,8 @@ export const Tech = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 100px;
-  min-width: 100px;
+  max-width: 150px;
+  min-width: 150px;
   margin-bottom: 2rem;
 `;
 

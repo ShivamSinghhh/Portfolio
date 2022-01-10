@@ -32,6 +32,7 @@ function Footer() {
           >
             Shivam Singh
           </a>{" "}
+          {/* <div> Mo.&nbsp; +91 8081641044</div> */}
         </span>
       </div>
     </FooterSection>

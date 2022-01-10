@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Vujahday+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vujahday+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vujahday+Script&display=swap');
+
+
+#logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo p {
+    margin: 0;
+}
+
+.code {
+    font-family: 'Vujahday Script', cursive;
+    font-size: 17px;
+    color: #FDD20EFF;
+}
+
+.first {
+    font-family: 'Vujahday Script', cursive;
+    font-size: 38px;
+    color: #FC766AFF;
+}
+
+.last {
+    font-family: 'Vujahday Script', cursive;
+    font-size: 22px;
+    color: #5B84B1FF;
+}
