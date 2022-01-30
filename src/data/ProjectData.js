@@ -1,31 +1,32 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://user-images.githubusercontent.com/91539305/147107410-e2cf1961-f777-4e33-8a49-586a9a612cb5.gif",
-    title: "Pepperfry Clone - Backend",
-    description: "Pepperfry is an Indian online marketplace for furniture and home décor.",
+    img: "https://github.com/ShivamSinghhh/Assets/raw/main/gif/pepperfry.gif",
+    title: "Pepperfry Clone",
+    description: "Pepperfry replica. In this project we have cloned site along with carousel on home page, drop-down, filter and scroll functionality.",
     tech_stack: "Html, Css, Javascript Express node.js Mongoose MongoDB Ejs",
     github_url: "https://github.com/sushantsharmaa/PEPPERFRY-CLONE-BACKEND",
     demo_url: "https://pepperfry-clone-silk.vercel.app/",
   },
   {
    
-    img: "https://github.com/AvdheshPal/Pull-Bear/raw/main/image.gif/",
+   
+    img: "https://github.com/ShivamSinghhh/Assets/raw/main/gif/pullbear.gif",
     title: "Pull & Bear",
-    description: "An online shopping website, based on spain.",
+    description: "An end to end clone of `Pull and Bear` where user can register, sort and filter products according to their preferences. At checkout user can even apply coupon if applicable.",
     tech_stack: "HTML, JavaScrip, CSS, LocalStorage",
     github_url: "https://github.com/AvdheshPal/Pull-Bear",
     demo_url: "https://pull-bear-avdheshpal.vercel.app/",
   },
-  {
-    img: "https://user-images.githubusercontent.com/91539305/147107410-e2cf1961-f777-4e33-8a49-586a9a612cb5.gif",
-    title: "Pepperfry Clone",
-    description:
-      "Pepperfry is an Indian online marketplace for furniture and home décor.",
-    tech_stack: "Html, Css, Javascript, Localstorage , Mock-Sever",
-    github_url: "https://github.com/sushantsharmaa/PEPPERFRY-CLONE",
-    demo_url: "https://your_project_demo_link",
-  }
+  // {
+  //   img: "https://github.com/ShivamSinghhh/Assets/raw/main/gif/pepperfry.gif",
+  //   title: "Pepperfry Clone - Frontend",
+  //   description:
+  //     "Pepperfry is an Indian online marketplace for furniture and home decor. In this project we have cloned front-end side along with drop-down, filter and scroll features.along with carousel on home page and filter functionality",
+  //   tech_stack: "Html, Css, Javascript, Localstorage",
+  //   github_url: "https://github.com/sushantsharmaa/PEPPERFRY-CLONE",
+  //   demo_url: "https://pepperfry-clone-silk.vercel.app/",
+  // }
 ];
 
 // --------------------------------------- Skills

@@ -21,6 +21,7 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
+  margin : auto;
 }
 
 a {
@@ -32,6 +33,7 @@ a {
 ul,
 ol {
   list-style: none;
+
 }
 
 article,
@@ -46,6 +48,7 @@ menu,
 nav,
 section {
   display: block;
+    
 }
 
 h1,
@@ -56,12 +59,14 @@ h5,
 h6 {
   font-size: 100%;
   font-weight: normal;
+
 }
 
 img,
 video {
   display: block;
   max-width: 100%;
+   
 }
 
 .btn {
@@ -92,6 +97,7 @@ video {
 
 .btn2 {
   margin-right: 1rem;
+  
 }
 
 .Container {
@@ -100,6 +106,7 @@ video {
   padding-left: 1rem;
   margin-right: auto;
   margin-left: auto;
+   
 }
 
 .BigCard {
@@ -114,6 +121,7 @@ video {
   box-shadow: rgba(0, 0, 0, 0.05) 0px 5px 10px;
   /* box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
     0 4px 6px -2px rgba(0, 0, 0, 0.05); */
+   
 }
 
 .AboutBio,
@@ -123,11 +131,13 @@ video {
   margin: 0 auto;
   color: #151418;
   line-height: 1.6;
+
 }
 
 .tagline2 {
   margin-top: 1rem;
   margin-bottom: 2rem;
+   
 }
 
 .SectionTitle {
@@ -135,13 +145,15 @@ video {
   color: #151418;
   font-weight: 700;
   margin-bottom: 3.5rem;
+  
 }
 .ProjectWrapper {
   margin-top: -1rem;
+ 
 }
 .smimg{
   border-radius: 30px;
-  border: 1px solid white;
+  /* border: 1px solid red; */
 }
 
 /* ------------------------------------ Media for Container */
