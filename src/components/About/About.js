@@ -15,7 +15,7 @@ function About() {
             Hello! My name is <strong>Shivam Singh</strong> .
           </div>
           <div className="AboutBio tagline2">
-            I am an aspiring FullStack Developer and a curious person who loves to know how different things work together. I love to BUILD STUFF and connect with people!
+            I am an aspiring FullStack Developer and a curious person who loves to know how different things work together. I love to build stuff and connect with people!
 
             When I am away from keyboard, you will find me listening music or connecting with people.
 
